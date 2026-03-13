@@ -31,6 +31,15 @@ H = 6
 # 노트북의 나머지 코드는 분자를 생성하고 시각화합니다.
 # 예를 들어, C6H6 (벤젠) 구조를 생성합니다.
 ```
+<img width="660" height="499" alt="Image" src="https://github.com/user-attachments/assets/adebe365-fd75-4f06-aee5-5db916a3f607" />
+
+```python
+C = 6
+O = 0
+H = 14
+
+# 예를 들어, isohexane 구조를 생성합니다.
+```
 
 ### 요구 사항
 
