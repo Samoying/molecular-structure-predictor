@@ -33,6 +33,8 @@ H = 6
 ```
 <img width="660" height="499" alt="Image" src="https://github.com/user-attachments/assets/adebe365-fd75-4f06-aee5-5db916a3f607" />
 
+
+
 ```python
 C = 6
 O = 0
@@ -40,6 +42,8 @@ H = 14
 
 # 예를 들어, isohexane 구조를 생성합니다.
 ```
+<img width="660" height="499" alt="Image" src="https://github.com/user-attachments/assets/435869d9-f0b9-4ce0-b458-09001281e995" />
+
 
 ### 요구 사항
 
